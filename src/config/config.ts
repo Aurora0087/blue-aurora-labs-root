@@ -23,14 +23,14 @@ export interface Config {
 
 export const configData: Config = {
 	siteTitle:
-		'Mizu Light Astro Theme | Modern SaaS & Startup Landing Page Template for Fast Product Launches by Oxygenna',
+		'Blue Aurora Labs | Custom Website Design & Development Agency',
 	siteDescription:
-		'Launch your next big idea with Mizu Light — a sleek, responsive Astro theme built for SaaS startups and tech companies. Streamline onboarding, showcase features beautifully, and convert visitors into users faster.',
+		'Blue Aurora Labs builds high-performance, beautifully crafted websites for businesses of all sizes. From landing pages to full custom builds — we turn your vision into a website that works.',
 	ogImage: '/og.jpg',
 	logo: {
-		src: '/logo-light.svg',
-		srcDark: '/logo-dark.svg',
-		alt: 'Mizu Light logo'
+		src: '/logo.svg',
+		srcDark: '/logo.svg',
+		alt: 'Blue Aurora Labs logo'
 	},
 	canonical: true,
 	noindex: false,

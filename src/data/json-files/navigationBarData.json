@@ -1,8 +1,8 @@
 {
 	"logo": {
-		"src": "/logo-light.svg",
-		"srcDark": "/logo-dark.svg",
-		"alt": "Tailwind Astro Theme"
+		"src": "/logo.svg",
+		"srcDark": "/logo.svg",
+		"alt": "Blue Aurora Labs"
 	},
 	"navItems": [
 		{ "name": "Home", "link": "/" },

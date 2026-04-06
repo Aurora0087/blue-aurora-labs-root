@@ -1,98 +1,98 @@
 {
 	"subtitle": "How it works",
-	"title": "A thoughtful flow from idea to action.",
+	"title": "From first conversation to live website.",
 	"nav": [
-		{ "id": "step-1", "index": "1", "label": "01. Start the Chat", "color": "#FFEAD0" },
-		{ "id": "step-2", "index": "2", "label": "02. View Insights", "color": "#F7F2FC" },
-		{ "id": "step-3", "index": "3", "label": "03. Set Your Style", "color": "#EDF8FF" },
-		{ "id": "step-4", "index": "4", "label": "04. Accept Payments", "color": "#FEF0F0" }
+		{ "id": "step-1", "index": "1", "label": "01. Discovery Call", "color": "#FFEAD0" },
+		{ "id": "step-2", "index": "2", "label": "02. Design & Strategy", "color": "#F7F2FC" },
+		{ "id": "step-3", "index": "3", "label": "03. Build & Develop", "color": "#EDF8FF" },
+		{ "id": "step-4", "index": "4", "label": "04. Launch & Support", "color": "#FEF0F0" }
 	],
 	"steps": [
 		{
 			"id": "step-1",
 			"index": "01",
-			"title": "Your setup starts with a simple conversation",
+			"title": "We start by understanding your business",
 			"subtitle": "step 01",
 			"color": "#FFEAD0",
 			"body": [
-				"No long forms, no onboarding maze — just start with a quick conversation. As soon as you arrive, the AI greets you and begins a casual, intelligent chat to understand your goals, habits, and what you’re here to build. It’s like talking to a clever co-founder who’s actually listening. ",
-				"Whether you're brainstorming ideas, organizing thoughts, or setting up a project, the system uses your responses to shape a workspace that feels instantly familiar. It’s a first step that’s simple, fast, and surprisingly fun."
+				"Every great website starts with a great conversation. In our discovery call, we take the time to understand your business, your audience, your goals, and what success looks like for you. No templates, no assumptions — just listening.",
+				"We'll ask about your brand, your competitors, and what you need your website to do. By the end of this call, we'll have everything we need to put together a clear proposal and project plan tailored specifically to you."
 			],
-			"cta": { "label": "More about getting started", "href": "/features" },
+			"cta": { "label": "Book a discovery call", "href": "/contact" },
 			"media": {
 				"front": {
 					"src": "/steps/steps/step_01_front.webp",
-					"alt": "step 1"
+					"alt": "Discovery call"
 				},
 				"back": {
 					"src": "/steps/steps/step_01_back.webp",
-					"alt": "step 1"
+					"alt": "Discovery call"
 				}
 			}
 		},
 		{
 			"id": "step-2",
 			"index": "02",
-			"title": "Get insights without asking for them",
+			"title": "We design your site before writing a single line of code",
 			"subtitle": "step 02",
 			"color": "#F7F2FC",
 			"body": [
-				"Once you're in, the system quietly starts paying attention — but in a good way. It tracks patterns in how you work, what you focus on, and where you spend your time. The result? ",
-				"Useful, real-time insights without any effort on your part. You’ll start seeing trends, highlights, and even gentle nudges that help you understand what’s working and what’s getting in the way. It’s analytics, but without the overwhelm — just the right amount of clarity to keep you in flow."
+				"Before development begins, our designers create detailed mockups of your website. You'll see exactly how every page will look and feel, giving you the opportunity to review, provide feedback, and refine the design before anything is built.",
+				"This stage ensures there are no surprises during development. We agree on the design together, then move forward with complete confidence. Your input shapes everything."
 			],
-			"cta": { "label": "Read about insights", "href": "/features" },
+			"cta": { "label": "See our work", "href": "/blog" },
 			"media": {
 				"front": {
 					"src": "/steps/steps/step_02_front.webp",
-					"alt": "step 2"
+					"alt": "Design mockup review"
 				},
 				"back": {
 					"src": "/steps/steps/step_02_back.webp",
-					"alt": "step 2"
+					"alt": "Design mockup review"
 				}
 			}
 		},
 		{
 			"id": "step-3",
 			"index": "03",
-			"title": "Learns what you like (and what you don’t)",
+			"title": "We build your website with clean, quality code",
 			"subtitle": "step 03",
 			"color": "#EDF8FF",
 			"body": [
-				"No long forms, no onboarding maze — just start with a quick conversation. As soon as you arrive, the AI greets you and begins a casual, intelligent chat to understand your goals, habits, and what you’re here to build. It’s like talking to a clever co-founder who’s actually listening. ",
-				"Whether you're brainstorming ideas, organizing thoughts, or setting up a project, the system uses your responses to shape a workspace that feels instantly familiar. It’s a first step that’s simple, fast, and surprisingly fun."
+				"Once the design is approved, our developers get to work. We build everything to agreed specifications — responsive, fast, and accessible. You'll have access to a staging environment throughout so you can track progress and flag anything at any time.",
+				"We integrate your CMS, connect your tools, and test thoroughly across devices and browsers. Nothing goes live until it meets our quality standards and has your sign-off."
 			],
-			"cta": { "label": "More about styles", "href": "/features" },
+			"cta": { "label": "See what we build on", "href": "/features" },
 			"media": {
 				"front": {
 					"src": "/steps/steps/step_03_front.webp",
-					"alt": "step 3"
+					"alt": "Website development"
 				},
 				"back": {
 					"src": "/steps/steps/step_03_back.webp",
-					"alt": "step 3"
+					"alt": "Website development"
 				}
 			}
 		},
 		{
 			"id": "step-4",
 			"index": "04",
-			"title": "Get paid without the paperwork",
+			"title": "We launch your site and stick around to support you",
 			"subtitle": "step 04",
 			"color": "#FEF0F0",
 			"body": [
-				"When you’re ready to share your work — whether it’s a product, a service, or something entirely new — the system has everything in place. ",
-				"Built-in payment tools make it easy to accept payments, send invoices, or offer subscriptions without needing extra tools or plugins. It’s secure, fast, and frictionless. You focus on delivering value — we’ll handle the rest."
+				"Launch day is the beginning, not the end. We handle the technical side of going live — domain setup, SSL, redirects, and final checks — so everything goes smoothly without any stress on your end.",
+				"After launch, you'll have 30 days of included support to catch and fix anything that comes up. And if you want ongoing maintenance, performance monitoring, or future development, we offer flexible support plans to keep your website in top shape."
 			],
-			"cta": { "label": "Accept payments", "href": "/features" },
+			"cta": { "label": "View our packages", "href": "/pricing" },
 			"media": {
 				"front": {
 					"src": "/steps/steps/step_02_front.webp",
-					"alt": "step 4"
+					"alt": "Website launch"
 				},
 				"back": {
 					"src": "/steps/steps/step_02_back.webp",
-					"alt": "step 4"
+					"alt": "Website launch"
 				}
 			}
 		}

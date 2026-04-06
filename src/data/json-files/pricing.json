@@ -1,74 +1,74 @@
 {
 	"currency": "USD",
 	"billing_toggle": ["annually", "monthly"],
-	"note": "No hidden fees, cancel anytime.",
+	"note": "All packages include SSL, mobile-responsive design, and a 30-day post-launch support window.",
 	"plans": [
 		{
 			"id": "starter",
 			"name": "Starter",
-			"tagline": "Get started with the essentials",
+			"tagline": "A polished online presence for small businesses",
 			"prices": {
-				"annually": 19,
-				"monthly": 24
+				"annually": 49,
+				"monthly": 59
 			},
 			"prices_notes": {
 				"annually": "/month, billed annually",
 				"monthly": "/month, billed monthly"
 			},
-			"cta": { "label": "View All Features", "href": "/signup?plan=starter" },
+			"cta": { "label": "Get Started", "href": "/contact?plan=starter" },
 			"features": [
-				"Up to 3 active projects",
-				"Basic integrations (Slack, Google Drive, Dropbox)",
-				"Email support during business hours",
-				"10GB secure storage",
-				"Simple task management tools",
-				"Community access & knowledge base"
+				"Up to 5 custom-designed pages",
+				"Mobile-responsive layout",
+				"Basic on-page SEO setup",
+				"Contact form integration",
+				"Google Analytics setup",
+				"30-day post-launch support"
 			]
 		},
 		{
-			"id": "basic",
-			"name": "Basic",
-			"tagline": "Power and flexibility for growing teams",
+			"id": "growth",
+			"name": "Growth",
+			"tagline": "A full website with CMS for growing businesses",
 			"prices": {
-				"annually": 29,
-				"monthly": 35
+				"annually": 99,
+				"monthly": 119
 			},
 			"prices_notes": {
 				"annually": "/month, billed annually",
 				"monthly": "/month, billed monthly"
 			},
-			"cta": { "label": "View All Features", "href": "/signup?plan=starter" },
+			"cta": { "label": "Get Started", "href": "/contact?plan=growth" },
 			"tag": "Most Popular",
 			"featured": true,
 			"features": [
-				"Unlimited projects and team members",
-				"All integrations (CRM, analytics, communication tools)",
-				"Priority chat & email support",
-				"20GB secure storage",
-				"Custom branding & white-label options",
-				"Advanced reporting and dashboards"
+				"Up to 15 custom-designed pages",
+				"CMS integration (update content yourself)",
+				"Blog or news section",
+				"Advanced SEO setup & schema markup",
+				"Third-party integrations (CRM, booking, etc.)",
+				"Priority support & monthly maintenance"
 			]
 		},
 		{
-			"id": "pro",
-			"name": "Pro",
-			"tagline": "Tailored solutions for large organizations",
+			"id": "custom",
+			"name": "Custom",
+			"tagline": "Bespoke solutions for complex requirements",
 			"prices": {
-				"annually": 49,
-				"monthly": 55
+				"annually": 249,
+				"monthly": 299
 			},
 			"prices_notes": {
 				"annually": "/month, billed annually",
 				"monthly": "/month, billed monthly"
 			},
-			"cta": { "label": "View All Features", "href": "/signup?plan=starter" },
+			"cta": { "label": "Talk to Us", "href": "/contact?plan=custom" },
 			"features": [
-				"Everything in basic",
-				"Dedicated success manager",
-				"Priority chat & email support",
-				"Unlimited secure storage",
-				"Custom data residency options (EU/US, APAC)",
-				"Governance, risk & compliance tools"
+				"Everything in Growth",
+				"E-commerce & custom functionality",
+				"Bespoke design system & brand identity",
+				"Dedicated project manager",
+				"Performance & accessibility audits",
+				"Ongoing retainer & strategic support"
 			]
 		}
 	]
